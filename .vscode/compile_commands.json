@@ -1,0 +1,6 @@
+[
+{
+  "directory": "/home/wasaba/projects/TIPE",
+  "arguments": ["/usr/bin/gcc", "-c", "-m64", "-std=c++17", "-o", "build/.objs/tipe/linux/x86_64/TIPE/main.cpp.o", "main.cpp"],
+  "file": "main.cpp"
+}]
